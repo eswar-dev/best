@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.d17b8f75.css","mappings":"AAAA,MAEI,YAAa,CACb,6BACJ","sources":["Listitem.css"],"sourcesContent":[".name\r\n{\r\n    display: flex;\r\n    justify-content: space-between;\r\n}"],"names":[],"sourceRoot":""}
